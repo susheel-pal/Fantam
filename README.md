@@ -19,5 +19,3 @@ Comment on a particular blog.
 Show all users who liked a particular blog.
 Delete a Blog Post.
 LogOut themselves and LogIn with their other ID.
-
-
