@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766655864067",
+    "project_id": "fantam-53bc5",
+    "storage_bucket": "fantam-53bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766655864067:android:08896a2699f119a5675d36",
+        "android_client_info": {
+          "package_name": "com.example.fantam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766655864067-dnhir5c3ofacotj24hkeqrmuekj81a6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBLxynKxJ5ZIsB65gF4TQVpoznrorC8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766655864067-dnhir5c3ofacotj24hkeqrmuekj81a6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
