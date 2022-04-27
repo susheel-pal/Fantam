@@ -22,6 +22,6 @@ LogOut themselves and LogIn with their other ID.
 
 #Screenshots
 
-![signup](https://user-images.githubusercontent.com/88261926/165497611-41c084c2-c3d3-4fc0-a086-668b7c49bc6c.jpg)
-![signin](https://user-images.githubusercontent.com/88261926/165497989-ed40eaa7-34d9-4d4b-8e87-eab2eee8eb02.jpg)
+![signup](https://user-images.githubusercontent.com/88261926/165497611-41c084c2-c3d3-4fc0-a086-668b7c49bc6c.jpg) ![signin](https://user-images.githubusercontent.com/88261926/165497989-ed40eaa7-34d9-4d4b-8e87-eab2eee8eb02.jpg)
+
 
