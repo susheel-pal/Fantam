@@ -6,18 +6,18 @@ SignIn and SignUp.
 
 # Features
 
-SignUp using their email and password.
-SignIns using their email and password that they have used during the Signup process.
-Edit their profile data (Profile Pic, Name, and Password).
-Add various posts (blogs).
-Search for a specific post.
-Show all registered users.
-Search for a user out of all registered users.
-Like a post.
-Comment on a particular post.
-Show all users who liked a particular post.
-Delete a Blog Post.
-LogOut themselves and LogIn with their other ID.
++ SignUp using their email and password.
++ SignIns using their email and password that they have used during the Signup process.
++ Edit their profile data (Profile Pic, Name, and Password).
++ Add various posts (blogs).
++ Search for a specific post.
++ Show all registered users.
++ Search for a user out of all registered users.
++ Like a post.
++ Comment on a particular post.
++ Show all users who liked a particular post.
++ Delete a Blog Post.
++ LogOut themselves and LogIn with their other ID.
 
 
 # Screenshots
